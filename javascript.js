@@ -1,1 +1,1 @@
-let text ="Hello world";
+document.write("hello World");
