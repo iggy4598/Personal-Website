@@ -1,0 +1,67 @@
+html{
+    background-color: paleturquoise;
+}
+
+.name{
+    display: block;
+    text-align: left;
+    background-color: cadetblue;
+    width: 100%;
+    padding: 50px;
+    margin: auto;
+    height: 50%;
+}
+.about{
+text-align: right;
+position: absolute;
+left: 90%;
+top: 5%;
+font-size: 175%;
+padding: 0px 30px 0px 40px;
+margin: auto;
+}
+.port{
+text-align: right;
+position: absolute;
+left: 82%;
+top: 5%;
+font-size: 175%;
+padding: 0px 25px 25px 25px;
+margin: auto;
+}
+.Home{
+text-align: right;
+position: absolute;
+left: 75%;
+top: 5%;
+font-size: 175%;
+padding: 0px 25px 25px 25px;
+margin: auto;
+}
+.Work{
+    display: block;
+    font-style: italic;
+    display: table;
+    align-self: auto;
+}
+.Photo{
+    float: right;
+    width: 50%;
+    height: 30%;
+    padding: 10px;
+}
+.Words{ 
+    display: block;
+    box-sizing: border-box;
+    margin: 25px 399px 25px 2px;
+}
+.wor{
+    text-align: center;
+    position:  relative; top: 70px;
+}
+
+.Ga{
+    text-align: center;
+    position:  relative; top: 70px;
+}
+
