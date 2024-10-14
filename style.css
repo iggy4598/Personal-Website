@@ -11,9 +11,9 @@ html {
   margin: auto;
   height: 50%;
 }
-nav{
+nav {
   box-shadow: 0 0 12px -2px;
-  position:  fixed;
+  position: fixed;
   left: 0;
   right: 0;
   align-items: center;
@@ -111,7 +111,7 @@ nav{
   padding: 0px 25px 25px 25px;
   margin: auto;
 }
-.form-control3{
+.form-control3 {
   height: 100px;
-width: 400px;
+  width: 400px;
 }
