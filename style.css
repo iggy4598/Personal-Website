@@ -11,6 +11,18 @@ html {
   margin: auto;
   height: 50%;
 }
+nav{
+  box-shadow: 0 0 12px -2px;
+  position:  fixed;
+  left: 0;
+  right: 0;
+  align-items: center;
+  display: flex;
+  height: 80px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+}
 .about {
   text-align: right;
   position: absolute;
@@ -49,6 +61,7 @@ html {
   font-style: italic;
   display: table;
   align-self: auto;
+  padding: 150px 10px 0px 0px;
 }
 .Photo {
   float: right;
@@ -59,7 +72,7 @@ html {
 .Words {
   display: block;
   box-sizing: border-box;
-  margin: 25px 399px 25px 2px;
+  margin: 30px 1px 10px 0px;
 }
 .wor {
   text-align: center;
